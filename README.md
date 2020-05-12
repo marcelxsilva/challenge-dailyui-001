@@ -5,10 +5,11 @@
   </a>
 </p>
 
-> Create a subscription page. It can be for a volunteer event, contest registration, distribution or anything you can imagine.
+## Description Challenge
+Create a subscription page. It can be for a volunteer event, contest registration, distribution or anything you can imagine.
 
 
-## Prewiew
+## Preview
 ![Captura de tela de 2020-05-11 23-59-45](https://user-images.githubusercontent.com/44801113/81634293-0c37d180-93e5-11ea-9531-fe3b7e535190.png)
 
 
